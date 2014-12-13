@@ -1,6 +1,2 @@
 # eVocab 
 
-## Installation
-
-
-## Configuration
