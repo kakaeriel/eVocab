@@ -2,3 +2,8 @@
 /config/app.php
 /tmp/*
 /logs/*
+
+nbproject/project.xml
+nbproject/private/private.properties
+nbproject/private/private.xml
+nbproject/project.properties
